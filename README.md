@@ -1,7 +1,7 @@
 
 <div align = "center">
 <h3> SNS </h3>
-<a href="https://www.instagram.com/dl_rkgus/" target="_blank">
+<a href="https://www.instagram.com/dl_guss/" target="_blank">
 <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://mal-la.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/TISTORY-000000?style=flat&logo=Tistory&logoColor=white"/></a>
